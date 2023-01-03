@@ -3,7 +3,7 @@
 
 Have a look
 
-![Screenshot](Desktop.png)
+![Screenshot](Desktop.jpeg)
 
 ----
 

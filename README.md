@@ -3,7 +3,7 @@
 
 Have a look
 
-![Screenshot](Desktop.jpeg)
+<img src="Desktop.png" alt="J" width="300" height-="200"/>
 
 ----
 

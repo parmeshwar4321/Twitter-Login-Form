@@ -107,3 +107,10 @@ button {
         /* padding: 0px; */
     }
   }
+
+.line{
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    gap: 1rem;
+  
+}
